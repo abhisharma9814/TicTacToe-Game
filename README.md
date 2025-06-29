@@ -1,4 +1,9 @@
 #  Tic Tac Toe - Python GUI Game
+---
+Tags: python, tkinter, gui, tic-tac-toe, ai, game
+
+---
+
 
 A fun and simple 2-player or player-vs-AI **Tic Tac Toe game** built using Python's `tkinter`. This project is organized, clean, and beginner-friendly.
 
